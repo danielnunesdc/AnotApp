@@ -32,7 +32,7 @@ Navegue até a pasta do projeto pelo terminal e instale as dependências com o s
 $ npm install
 ```
 
-Para adicionar os serviços do Firebase no projeto, foi usado a biblioteca *AngularFire*. Para incluir a biblioteca digite:
+Para adicionar os serviços do Firebase no projeto, foi usado a biblioteca *AngularFire2*. Para incluir a biblioteca digite:
 
 ```bash
 $ npm install firebase angularfire2
@@ -72,7 +72,7 @@ $ ionic serve --lab
 **Creditos:** Gustavo Pinho
 
 **Links Externos:**
-[NodeJS](https://nodejs.org/en/)
-[Ionic](https://ionicframework.com/)
-[Angular](https://angular.io/)
-[Typescript](https://www.typescriptlang.org/)
+ - [NodeJS](https://nodejs.org/en/)
+ - [Ionic](https://ionicframework.com/)
+ - [Angular](https://angular.io/)
+ - [Typescript](https://www.typescriptlang.org/)
