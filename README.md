@@ -69,10 +69,10 @@ Novamente rode o projeto:
 $ ionic serve --lab
 ```
 
-**Creditos:** Gustavo Pinho
-
 **Links Externos:**
  - [NodeJS](https://nodejs.org/en/)
  - [Ionic](https://ionicframework.com/)
  - [Angular](https://angular.io/)
  - [Typescript](https://www.typescriptlang.org/)
+ 
+ Baseado no projeto do Gustavo Pinho.
