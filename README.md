@@ -75,4 +75,3 @@ $ ionic serve --lab
  - [Angular](https://angular.io/)
  - [Typescript](https://www.typescriptlang.org/)
  
- Baseado no projeto do Gustavo Pinho.
