@@ -69,6 +69,9 @@ Novamente rode o projeto:
 $ ionic serve --lab
 ```
 
+Como resolver o seguinte erro --> [Error while building "Cannot find namespace 'firebase'"·](https://github.com/nunesdaniel/AnotApp/blob/master/erro.md)
+
+
 **Links Externos:**
  - [NodeJS](https://nodejs.org/en/)
  - [Ionic](https://ionicframework.com/)
